@@ -1,3 +1,9 @@
+# References
+
+- [Clever Progammers](https://www.youtube.com/watch?v=B-kxUMHBxNo&t=3983s)
+- [React official docs](https://reactjs.org/docs/getting-started.html)
+- [Material ui official docs](https://material-ui.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
